@@ -4,10 +4,9 @@ A simple command-line budget tracking tool built in Python. This app helps users
 
 ##Features
 
-- Set an initial budget
-- Add multiple expenses with descriptions and amounts
-- View total spent and remaining budget
-- Data saved in a `.json` file for future use
+ Add expense descriptions and amounts
+- View total spending and remaining budget
+- Save and load budget data using JSON
 
 ##How to Run
 
@@ -33,9 +32,13 @@ On your first run, you’ll be prompted to enter your initial budget. All data i
 License
 MIT License 
 
-##Technologies Used
+##Tech Stack
 - Python 3
 - JSON for data persistence
+
+##Inspiration
+This simple budget app was created as a way to practice Python functions, file handling, and data persistence, and help track everyday spending.
+
 
 
 
