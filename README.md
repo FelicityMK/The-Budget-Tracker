@@ -27,8 +27,16 @@ README.md: This file
 Requirements
 Python 3.x
 
+##How to Use:
+On your first run, you’ll be prompted to enter your initial budget. All data is stored in a local budget_data.json file
+
 License
 MIT License 
+
+##Technologies Used
+- Python 3
+- JSON for data persistence
+
 
 
 
